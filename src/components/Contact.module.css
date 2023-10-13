@@ -1,0 +1,14 @@
+.contact-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.google-form {
+    margin-top: 20px;
+}
+
+.google-form iframe {
+    margin: 0 auto; /* センタリング */
+}
